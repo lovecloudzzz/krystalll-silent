@@ -1,10 +1,10 @@
-package ru.seminar.homework.hw5;
+package com.app.homework;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class Hw5ApplicationTests {
+class HomeworkApplicationTests {
 
 	@Test
 	void contextLoads() {
